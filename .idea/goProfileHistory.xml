@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GoProfileHistory">
+    <profile entry="$USER_HOME$/GoLandProfiles/go_test_github_com_nakajimayoshi_zarr-go_v1-cpu_profile-2026-07-02-102857-862.pprof">
+      <GoProfileMapEntry>
+        <option name="buildAnchorMillis" value="1782955737889" />
+        <option name="file" value="go_test_github_com_nakajimayoshi_zarr-go_v1-cpu_profile-2026-07-02-102857-862.pprof" />
+        <option name="ours" value="true" />
+      </GoProfileMapEntry>
+    </profile>
+  </component>
+</project>
